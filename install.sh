@@ -107,7 +107,7 @@ fn_install () {
 
     mkdir -p ubuntu-binds;
 
-    bin=start.sh;
+    bin=junayed.sh;
 
     print_ew "info" "Creating the start script, please wait...";
 
