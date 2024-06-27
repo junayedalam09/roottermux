@@ -17,7 +17,7 @@ pkg install git -y
 
 ```bash
 # clone from github with git
-git clone https://github.com/junayedalam09/roottermux.git && cd root-termux && chmod +x *
+git clone https://github.com/junayedalam09/roottermux.git && cd roottermux && chmod +x *
 ```
 
 ```bash
