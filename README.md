@@ -8,6 +8,9 @@ Run these commands in Termux:
 pkg install git - y
 
 #clone from github with git
+
+
+
 git clone https://github.com/junayedalam09/roottermux.git
 
 
