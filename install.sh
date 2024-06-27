@@ -166,7 +166,7 @@ EOM
     
     print_ew "info" "Successfully fixed shebang of start.sh!";
 
-    print_ew "info" "Making start.sh executable please wait...";
+    print_ew "info" "Making junayed.sh executable please wait...";
 
     chmod +x $bin > /dev/null 2>&1;
 
@@ -178,7 +178,7 @@ EOM
 
     print_ew "info" "Successfully cleaned up!";
 
-    print_ew "info" "installation completed! Run => bash start.sh";
+    print_ew "info" "installation completed! Run => bash junayed.sh";
 
     rm -rf .git 2>&1;
 
