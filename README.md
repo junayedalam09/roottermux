@@ -39,7 +39,7 @@ after installing and creating the executable file, run the root environment with
 
 ```bash
 # run bash script `junayed.sh`
-bash start.sh  # or `./junayrd.sh`
+bash junayed.sh  # or `./junayrd.sh`
 ```
 
 <br>
