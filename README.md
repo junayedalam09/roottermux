@@ -38,8 +38,8 @@ yes | bash install.sh
 after installing and creating the executable file, run the root environment with the following command:
 
 ```bash
-# run bash script `start.sh`
-bash start.sh  # or `./start.sh`
+# run bash script `junayed.sh`
+bash start.sh  # or `./junayrd.sh`
 ```
 
 <br>
