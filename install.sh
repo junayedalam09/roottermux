@@ -160,17 +160,17 @@ EOM
 
     print_ew "info" "The start script has been successfully created!";
 
-    print_ew "info" "Fixing shebang of start.sh, please wait...";
+    print_ew "info" "Fixing shebang of junayed.sh, please wait...";
     
     termux-fix-shebang $bin > /dev/null 2>&1;
     
-    print_ew "info" "Successfully fixed shebang of start.sh!";
+    print_ew "info" "Successfully fixed shebang of junayed.sh!";
 
     print_ew "info" "Making junayed.sh executable please wait...";
 
     chmod +x $bin > /dev/null 2>&1;
 
-    print_ew "info" "Successfully made start.sh executable";
+    print_ew "info" "Successfully made junayed.sh executable";
 
     print_ew "info" "Cleaning up please wait...";
 
